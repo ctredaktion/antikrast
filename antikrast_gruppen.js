@@ -1,7 +1,7 @@
 /*
 Antikrastinator v1.0
 created by Herbert Braun (wortwart) 2013
-for c't Magazin (www.ct.de), issue 13/2013
+for c't Magazin (www.ct.de), issue 12/2013
 script for groups.html
 */
 
