@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+ <head>
+  <!-- page for group management. To be called from antikrast.html -->
+  <title></title>
+  <script type="text/javascript" src="antikrast_gruppen.js"></script>
+  <link rel="stylesheet" href="stil.css" type="text/css"/>
+ </head>
+ <body>
+  <h1></h1>
+  <form action="antikrast.html" method="get">
+   <input type="hidden" name="id" id="id" value=""/>
+   <p>
+    <label for="name"></label><br/>
+    <input type="text" name="name" id="name" value="" tabindex="1"/>
+   </p>
+   <p>
+    <label for="duration"></label><br/>
+    <input type="text" name="duration" id="duration" value="" tabindex="2"/>
+   </p>
+   <p>
+    <label for="domains"></label><br/>
+    <textarea name="domains" id="domains" tabindex="4">
+    </textarea>
+   </p>
+   <p>
+    <input type="checkbox" name="delete" id="delete"/>
+    <label for="delete"></label>
+   </p>
+   <p>
+    <button type="button" tabindex="5"></button>
+   </p>
+  </form>
+  <p><a href="antikrast.html"></a></p>
+ </body>
+</html>

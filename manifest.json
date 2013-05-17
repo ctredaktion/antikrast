@@ -1,0 +1,20 @@
+﻿{
+ "manifest_version": 2,
+ "name": "Antikrastinator",
+ "description": "__MSG_extDesc__",
+ "version": "1.0",
+ "default_locale": "en",
+ "permissions": [
+  "<all_urls>",
+  "idle",
+  "tabs",
+  "alarms"
+ ],
+ "background": {
+  "scripts": ["antikrast.js"]
+ },
+ "browser_action": {
+  "default_icon": "icon.png",
+  "default_popup": "antikrast.html"
+ }
+}
