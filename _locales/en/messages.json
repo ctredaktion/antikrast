@@ -1,0 +1,52 @@
+﻿{
+ "extDesc": {
+  "message": "Remembers how long you surfed what domains and bugs you if you waste too much time.",
+  "description": "Describes the extension."
+ },
+ "warning1": {
+  "message": "You have already been surfing for ",
+  "description": "Text for alert box, part 1."
+ },
+ "warning2": {
+  "message": " on web sites in the group ",
+  "description": "Text for alert box, part 2."
+ },
+ "warning3": {
+  "message": ". But you have allowed yourself only ",
+  "description": "Text for alert box, part 3."
+ },
+ "warning4": {
+  "message": " minutes per day. Come on, back to work!",
+  "description": "Text for alert box, part 4."
+ },
+ "lessThan1Minute": {
+  "message": "less than 1 minute",
+  "description": "Formatted usage time."
+ },
+ "warningGroup": {
+  "message": "Group form filled out incompletely",
+  "description": "Warning for group form."
+ },
+ "newGroup": {
+  "message": "New group",
+  "description": "New group in popup."
+ },
+ "edit": {"message": "edit"},
+ "create": {"message": "create"},
+ "popup0": {"message": "The log file contains"},
+ "popup1": {"message": "entries from"},
+ "popup2": {"message": "domains. You have been surfing for"},
+ "popup3": {"message": "on"},
+ "popup4": {"message": "Update information"},
+ "popup5": {"message": "Delete old database entries automatically"},
+ "popup6": {"message": "Domain Groups"},
+ "popupGroup0": {"message": "Antikrast: Group Management"},
+ "popupGroup1": {"message": "Name"},
+ "popupGroup2": {"message": "Duration<br/>(in minutes per day)"},
+ "popupGroup3": {"message": "Domains<br/>(separated by space or return)"},
+ "popupGroup4": {"message": "Delete group"},
+ "popupGroup5": {"message": "Save changes"},
+ "popupGroup6": {"message": "Back"},
+ "unknownTime": {"message": "[unknown time]"},
+ "unknownDomain": {"message": "[unknown domain]"}
+}

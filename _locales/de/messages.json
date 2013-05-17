@@ -1,0 +1,56 @@
+﻿{
+ "extPopup": {
+  "message": "antikrast.de.html",
+  "description": "Dateiname des Popup."
+ },
+ "extDesc": {
+  "message": "Merkt sich, wie lange du auf welchen Domains surfst, und haut dir auf die Finger, wenn du Zeit verplemperst.",
+  "description": "Beschreibung der Erweiterung."
+ },
+ "warning1": {
+  "message": "Du surfst heute schon ",
+  "description": "Text für Alert-Box, Teil 1."
+ },
+ "warning2": {
+  "message": " in der Website-Gruppe ",
+  "description": "Text für Alert-Box, Teil 2."
+ },
+ "warning3": {
+  "message": ". Erlaubt hast du dir aber nur ",
+  "description": "Text für Alert-Box, Teil 3."
+ },
+ "warning4": {
+  "message": " Minuten. Arbeite gefälligst!",
+  "description": "Text für Alert-Box, Teil 4."
+ },
+ "lessThan1Minute": {
+  "message": "weniger als 1 Minute",
+  "description": "Zeitausgabe."
+ },
+ "warningGroup": {
+  "message": "Gruppenformular unvollständig ausgefüllt",
+  "description": "Warnung beim Ausfüllen des Gruppenformulars."
+ },
+ "newGroup": {
+  "message": "Neue Gruppe",
+  "description": "Neue Gruppe im Popup."
+ },
+ "edit": {"message": "bearbeiten"},
+ "create": {"message": "anlegen"},
+ "popup0": {"message": "Das Logbuch enthält"},
+ "popup1": {"message": "Einträge von"},
+ "popup2": {"message": "Hosts. Du surfst seit"},
+ "popup3": {"message": "auf"},
+ "popup4": {"message": "Anzeige aktualisieren"},
+ "popup5": {"message": "Datenbank-Einträge automatisch löschen"},
+ "popup6": {"message": "Domain-Gruppen"},
+ "popupGroup0": {"message": "Antikrast: Gruppenverwaltung"},
+ "popupGroup1": {"message": "Name"},
+ "popupGroup2": {"message": "Dauer<br/>(in Minuten pro Tag)"},
+ "popupGroup3": {"message": "Domains<br/>(mit Leerzeichen oder Return getrennt)"},
+ "popupGroup4": {"message": "Gruppe löschen"},
+ "popupGroup5": {"message": "Änderungen speichern"},
+ "popupGroup6": {"message": "Zurück"},
+ "unknownTime": {"message": "[unbekannter Zeit]"},
+ "unknownDomain": {"message": "[unbekannter Domain]"}
+}
